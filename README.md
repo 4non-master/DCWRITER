@@ -20,7 +20,7 @@
 ```json
 [settings]
 token = YOUR_TOKEN
-lang = PL
+lang = EN
 msg_file = messages.txt
 command = $write
 random = true
