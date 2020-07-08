@@ -25,10 +25,22 @@ msg_file = messages.txt
 command = $write
 random = true
 ```
-LANGUAGES
+OPTIONS
+##### LANGUAGE #####
 - EN / ENGLISH
 - PL / POLISH
-
+##### OTHER #####
+- random / to random letters on chat
+- command / to write messages
+- msg_file / if random is false, get text from file
+##### EXAMPLE ###
+```txt
+1
+2
+3
+...
+```
+- token / your token, need token to send message on selected channel (command on channel to active)
 
 ## [AUTHOR'S]
 
