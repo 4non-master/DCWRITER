@@ -1,11 +1,10 @@
 ## [REQUIRED IMPORTS]
 
-- discord.js
-- string
-- random
-- ctypes
-- discord.ext - commands
-- asyncio
+- import string
+- import random
+- import ctypes
+- from discord.ext import commands
+- import asyncio
 
 ## [DESCRIPTION]
 
