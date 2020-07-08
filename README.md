@@ -15,6 +15,17 @@
 - ***DCWRITER.exe***
 - ***DCWRITER.py*** 
 
+## [CONFIG]
+
+```
+[settings]
+token = YOUR_TOKEN
+lang = PL
+msg_file = messages.txt
+command = $write
+random = true
+```
+
 ## [AUTHOR'S]
 
 - 4NON#2491
