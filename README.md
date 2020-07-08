@@ -13,10 +13,10 @@
 ***Cooldown: 0.75***
 
 # [FILES] #
-***config.json***
-***DCWRITER.exe***
+***- config.json***
+***- DCWRITER.exe***
 
-# ***DCWRITER.py*** #
+***DCWRITER.py*** 
 
 
 # DCWRITER
