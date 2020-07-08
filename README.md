@@ -12,12 +12,11 @@
 ## *** DISCORD AUTO WRITE MESSAGE *** ##
 ***Cooldown: 0.75***
 
-# [FILES] #
+## [FILES]
 - ***config.json***
 - ***DCWRITER.exe***
+- ***DCWRITER.py*** 
 
-***DCWRITER.py*** 
 
-
-# DCWRITER
-DCWRITER - Discord message sender from self token
+###### DCWRITER
+__DCWRITER - Discord message sender from self token__
