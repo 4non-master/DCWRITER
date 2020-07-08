@@ -40,7 +40,7 @@ OPTIONS
 3
 ...
 ```
-- token / your token, need token to send message on selected channel (command on channel to active)
+- token / your token, need token to send message on selected channel (send command on your channel to active writer)
 
 ## [AUTHOR'S]
 
