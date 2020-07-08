@@ -9,7 +9,6 @@
 
 ## [DESCRIPTION]
 
-### ***DISCORD AUTO WRITE MESSAGE*** ###
 ***Cooldown: 0.75***
 
 ## [FILES]
