@@ -9,7 +9,7 @@
 
 ## [DESCRIPTION]
 
-##*** DISCORD AUTO WRITE MESSAGE ***##
+## *** DISCORD AUTO WRITE MESSAGE *** ##
 *** Cooldown: 0.75s ***
 
 # DCWRITER
