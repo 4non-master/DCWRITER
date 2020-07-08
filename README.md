@@ -18,5 +18,4 @@
 - ***DCWRITER.py*** 
 
 
-###### DCWRITER
-__DCWRITER - Discord message sender from self token__
+###### DCWRITER - Discord message sender from self token
