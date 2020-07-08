@@ -17,7 +17,7 @@
 
 ## [CONFIG]
 
-```
+```json
 [settings]
 token = YOUR_TOKEN
 lang = PL
