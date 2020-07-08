@@ -20,11 +20,15 @@
 ```json
 [settings]
 token = YOUR_TOKEN
-lang = EN // EN or PL
+lang = EN
 msg_file = messages.txt
 command = $write
 random = true
 ```
+LANGUAGES
+- EN / ENGLISH
+- PL / POLISH
+
 
 ## [AUTHOR'S]
 
