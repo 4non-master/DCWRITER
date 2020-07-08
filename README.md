@@ -9,5 +9,8 @@
 
 ## [DESCRIPTION]
 
+##*** DISCORD AUTO WRITE MESSAGE ***##
+*** Cooldown: 0.75s ***
+
 # DCWRITER
 DCWRITER - Discord message sender from self token
