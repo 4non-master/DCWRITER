@@ -1,4 +1,4 @@
-### [REQUIRED IMPORTS] ###
+## [REQUIRED IMPORTS]
 
 - discord.js
 - string
@@ -7,7 +7,7 @@
 - discord.ext - commands
 - asyncio
 
-### [DESCRIPTION] ###
+## [DESCRIPTION]
 
 # DCWRITER
 DCWRITER - Discord message sender from self token
